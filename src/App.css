@@ -1,0 +1,29 @@
+.portfolio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media(max-width:1200px){
+    .right-section{
+        flex: 1;
+    }
+    .left-section{
+        display: none;
+    }
+}
+
+@media(max-width:768px){
+    .portfolio{
+        margin-left: 100px;
+        width: 80%;
+    }
+}
+

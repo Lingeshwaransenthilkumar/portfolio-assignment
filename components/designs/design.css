@@ -1,0 +1,75 @@
+
+.design{
+    margin-left: 3px;
+    display: flex;
+    flex-direction: column;
+    gap: 75px;
+}
+
+.question-mark ion-icon {
+    font-size: 22px;
+    color: #A3ADB2;
+
+}
+
+.square1{
+    width:7px;
+    height: 7px;
+    border-radius: 1.16px;
+    background: #4A4E54;
+
+}
+.square2{
+    width:7px;
+    height: 7px;
+    border-radius: 1.16px;
+    background: #4A4E54;
+
+}
+.square3{
+    width:7px;
+    height: 7px;
+    border-radius: 1.16px;
+    background: #4A4E54;
+
+}
+.square4{
+    width:7px;
+    height: 7px;
+    border-radius: 1.16px;
+    background: #4A4E54;
+
+}
+.square5{
+    width:7px;
+    height: 7px;
+    border-radius: 1.16px;
+    background: #4A4E54;
+
+}
+.square6{
+    width:7px;
+    height: 7px;
+    border-radius: 1.16px;
+    background: #4A4E54;
+
+}
+
+.rectangle{
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+.shape1{
+    display: flex;
+    gap: 1px;
+}
+.shape2{
+    display: flex;
+    gap: 1px;
+}
+.shape3{
+    display: flex;
+    gap: 1px;
+}
